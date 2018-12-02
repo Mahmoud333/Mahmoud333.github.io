@@ -2,6 +2,26 @@
 layout: default
 ---
 
+Results-oriented software developer with two years experience in development overall more than 15 released projects. 
+
+I make it my goal to create software with the user in mind, creating applications with a useable and intuitive user interface experience. I also understand the importance of creating highly readable and easily maintainable source code.I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.
+
+My Motto: Where there's a will, there's a way.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
