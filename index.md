@@ -7,7 +7,7 @@ I graduated from faulty of law cairo university however i have been programing b
 
 I have also passion with Automotive Photography and Gaming
 
-Results-oriented software developer with two years experience in development and overall more than 15 released projects. 
+Results-oriented software developer with more than three years of experience in development and overall more than 15 released projects. 
 
 I make it my goal to create software with the user in mind, creating applications with a useable and intuitive user interface experience. I also understand the importance of creating highly readable and easily maintainable source code.I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.
 
