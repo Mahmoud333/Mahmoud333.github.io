@@ -26,11 +26,11 @@ My Motto: Where there's a will, there's a way.
 
 ## Worked on
 
-[ContactCars](https://itunes.apple.com/eg/app/contactcars/id390158823?mt=8) (Top 5, Objective-C, 2mill+ Downloads, 4.7⭑, 20k ratings).
+[ContactCars](https://itunes.apple.com/eg/app/contactcars/id390158823?mt=8)     (Top 5, Objective-C, 2mill+ Downloads, 4.7⭑, 20k ratings).
 
-[FilGoal](https://itunes.apple.com/eg/app/filgoal/id497717534?mt=8) (Top 3, Objective-C, 2mill+ Downloads, 4.5⭑, 7k ratings).
+[FilGoal](https://itunes.apple.com/eg/app/filgoal/id497717534?mt=8)     (Top 3, Objective-C, 2mill+ Downloads, 4.5⭑, 7k ratings).
 
-[Bites.com](https://apps.apple.com/eg/app/bites-com/id1483688069) (Top 5, Swift-RxSwift).
+[Bites.com](https://apps.apple.com/eg/app/bites-com/id1483688069)     (Top 5, Swift-RxSwift).
 
 [Fantasy FilGoal](https://apps.apple.com/eg/app/fantasy-filgoal/id1482904075) (Top 100, Flutter/Dart).
 
@@ -52,6 +52,6 @@ My Motto: Where there's a will, there's a way.
  
 [WIZ-AR](https://itunes.apple.com/eg/app/wiz-ar/id1227741789?mt=8)  (Objective-C/Wikitude-AR).
 
-[estabena.com]  (https://itunes.apple.com/eg/app/estabena-com/id966821980?mt=8)  (Objective-C) (Already Removed from App Store).
+[estabena.com](https://itunes.apple.com/eg/app/estabena-com/id966821980?mt=8)  (Objective-C) (Already Removed from App Store).
 
 [Marouf-Academy](https://itunes.apple.com/eg/app/marouf-academy/id1074632038?mt=8)  (Swift) (Already Removed from App Store).
