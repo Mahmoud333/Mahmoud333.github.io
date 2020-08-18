@@ -30,7 +30,7 @@ My Motto: Where there's a will, there's a way.
 
 [FilGoal](https://itunes.apple.com/eg/app/filgoal/id497717534?mt=8) (Top 3, Objective-C, 2mill+ Downloads, 4.5⭑, 7k ratings).
 
-[Bites.com](https://apps.apple.com/eg/app/bites-com/id1483688069) (Top 5, Swift-RxSwift).
+[Bites](https://apps.apple.com/eg/app/bites-com/id1483688069) (Top 5, Swift-RxSwift).
 
 [Fantasy FilGoal](https://apps.apple.com/eg/app/fantasy-filgoal/id1482904075) (Top 100, Flutter/Dart).
 
