@@ -17,11 +17,11 @@ My Motto: Where there's a will, there's a way.
 
 ## My Apps
 
-[Copies Savior - Clipboard](https://apps.apple.com/app/copies-savior-clipboard/id1369631336) \t\t\t (macOS/Swift).
+[Copies Savior - Clipboard](https://apps.apple.com/app/copies-savior-clipboard/id1369631336) (macOS/Swift).
 
-[Scribe Live](https://itunes.apple.com/us/app/scribe-live/id1357806920?ls=1&mt=8) \t\t\t (Swift).
+[Scribe Live](https://itunes.apple.com/us/app/scribe-live/id1357806920?ls=1&mt=8) (Swift).
 
-[Red Round](https://itunes.apple.com/us/app/red-round/id1358798081?ls=1&mt=8) \t\t\t(Swift/SpriteKit).
+[Red Round](https://itunes.apple.com/us/app/red-round/id1358798081?ls=1&mt=8) (Swift/SpriteKit).
 
 
 ## Worked on
